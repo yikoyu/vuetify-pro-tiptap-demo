@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@tiptap/core": "^2.7.2",
+    "@tiptap/vue-3": "^2.7.2",
+    "json-editor-vue": "^0.16.0",
+    "nuxt": "^3.13.0",
+    "vue": "latest",
+    "vue-router": "latest",
+    "vuetify": "^3.7.2",
+    "vuetify-pro-tiptap": "^2.5.4"
+  },
+  "devDependencies": {
+    "@mdi/js": "^7.4.47",
+    "sass": "^1.79.2",
+    "vite-plugin-vuetify": "^2.0.4"
+  }
+}
