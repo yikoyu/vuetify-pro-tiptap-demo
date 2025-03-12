@@ -17,7 +17,7 @@
     "vue": "latest",
     "vue-router": "latest",
     "vuetify": "^3.7.2",
-    "vuetify-pro-tiptap": "^2.5.4"
+    "vuetify-pro-tiptap": "^2.5.8"
   },
   "devDependencies": {
     "@mdi/js": "^7.4.47",
