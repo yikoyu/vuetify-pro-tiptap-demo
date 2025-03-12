@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@tiptap/core": "^2.7.2",
-    "@tiptap/vue-3": "^2.7.2",
+    "@tiptap/core": "^2.11.5",
+    "@tiptap/vue-3": "^2.11.5",
     "json-editor-vue": "^0.16.0",
     "vue": "^3.4.37",
     "vuetify": "^3.7.2",
