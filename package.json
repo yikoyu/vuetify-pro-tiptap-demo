@@ -10,8 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@tiptap/core": "^2.7.2",
-    "@tiptap/vue-3": "^2.7.2",
+    "@tiptap/core": "^2.11.5",
+    "@tiptap/vue-3": "^2.11.5",
     "json-editor-vue": "^0.16.0",
     "nuxt": "^3.13.0",
     "vue": "latest",
